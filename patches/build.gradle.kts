@@ -11,3 +11,8 @@ patches {
         license = "GNU General Public License v3.0"
     }
 }
+tasks.withType<org.jetbrains.kotlin.gradle.tasks.KotlinJvmCompile> {
+    compilerOptions {
+        freeCompilerArgs.add("-Xcontext-receivers")
+    }
+}

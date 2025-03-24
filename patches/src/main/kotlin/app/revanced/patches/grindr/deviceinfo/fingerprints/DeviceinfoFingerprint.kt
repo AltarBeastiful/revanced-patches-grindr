@@ -4,7 +4,6 @@ import app.revanced.patcher.fingerprint
 import com.android.tools.smali.dexlib2.AccessFlags
 import com.android.tools.smali.dexlib2.Opcode
 
-
 internal val deviceInfoFingerprint = fingerprint {
     returns("L-Device-Info;")
     opcodes(

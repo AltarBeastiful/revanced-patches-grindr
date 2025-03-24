@@ -23,7 +23,7 @@ fun genLDevInfoAnon(): String {
 
 
 @Suppress("unused")
-val unclockUnlimitedPatch = bytecodePatch(
+val setRandomDeviceinfo = bytecodePatch(
     name = "Random device info"
 ) {
     execute {

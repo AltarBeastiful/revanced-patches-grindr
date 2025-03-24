@@ -1,4 +1,19 @@
-public final class app/revanced/patches/example/ExamplePatchKt {
-	public static final fun getExamplePatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+public final class app/revanced/patches/grindr/deviceinfo/patch/SetRandomDeviceinfoKt {
+	public static final fun genLDevInfo ()Ljava/lang/String;
+	public static final fun genLDevInfoAnon ()Ljava/lang/String;
+	public static final fun getSetRandomDeviceinfo ()Lapp/revanced/patcher/patch/BytecodePatch;
+}
+
+public final class app/revanced/patches/grindr/firebase/patch/FirebaseGetCertPatchKt {
+	public static final fun getFirebaseGetCertPatchGrindr ()Lapp/revanced/patcher/patch/BytecodePatch;
+}
+
+public final class app/revanced/patches/grindr/unlimited/patch/SetUnlimitedKt {
+	public static final fun getUnlockUnlimitedPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
+}
+
+public final class app/revanced/patches/grindr/version/patch/SpoofVersionKt {
+	public static final fun genUserAgent (Ljava/lang/String;Ljava/lang/String;)Ljava/lang/String;
+	public static final fun getSpoofVersionPatch ()Lapp/revanced/patcher/patch/BytecodePatch;
 }
 
