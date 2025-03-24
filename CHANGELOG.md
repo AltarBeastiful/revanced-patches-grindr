@@ -1,3 +1,18 @@
+# 1.0.0-dev.1 (2025-03-24)
+
+
+### Bug Fixes
+
+* Compile DEX without debugging information ([73f6506](https://github.com/Slenderman00/revanced-patches-grindr/commit/73f6506bccc01e5622a6e19bedcf6d54d3f701c7))
+* Upload asset signature by fixing asset path glob pattern ([1378304](https://github.com/Slenderman00/revanced-patches-grindr/commit/1378304809092e1f5a5c8fb4beb0964496222059))
+
+
+### Features
+
+* changes ([2d10b3d](https://github.com/Slenderman00/revanced-patches-grindr/commit/2d10b3d40ba65c40b77760a6bed0f67edd11e2c8))
+* Init ([66be625](https://github.com/Slenderman00/revanced-patches-grindr/commit/66be625f25ee2d678dac62a5bf4daa631284f8f6))
+* more stuff ([556bf03](https://github.com/Slenderman00/revanced-patches-grindr/commit/556bf0341a918129d3ebf47722449c611248d6f1))
+
 ## [1.0.4](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.3...v1.0.4) (2024-11-05)
 
 ## [1.0.4-dev.2](https://github.com/ReVanced/revanced-patches-template/compare/v1.0.4-dev.1...v1.0.4-dev.2) (2024-11-05)
